@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+spacy
+spacy_transformers
+pdfminer
+nltk
+numpy
+PyPDF2
